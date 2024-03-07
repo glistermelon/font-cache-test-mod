@@ -8,7 +8,8 @@
 	"description": "",
 	"resources": {
 		"files": [
-			"res/Satisfy.ttf"
+			"res/Satisfy.ttf",
+			"res/Oswald ExtraLight.ttf"
 		]
 	}
 }
